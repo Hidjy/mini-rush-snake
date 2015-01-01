@@ -6,13 +6,13 @@
 /*   By: laime <laime@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/12/11 11:06:28 by laime             #+#    #+#             */
-/*   Updated: 2014/12/11 11:29:59 by laime            ###   ########.fr       */
+/*   Updated: 2015/01/01 20:13:45 by laime            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdlib.h>
 #include "snake.h"
-#include "libft/libft.h"
+#include "../libft/libft.h"
 
 t_point	*pt_new(int x, int y)
 {

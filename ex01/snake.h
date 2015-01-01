@@ -6,14 +6,14 @@
 /*   By: hhismans <hhismans@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/12/08 16:23:22 by hhismans          #+#    #+#             */
-/*   Updated: 2014/12/13 17:47:07 by laime            ###   ########.fr       */
+/*   Updated: 2015/01/01 21:27:02 by laime            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef SNAKE_H
 # define SNAKE_H
 
-# include "libft/libft.h"
+# include "../libft/libft.h"
 
 typedef struct	s_point
 {

@@ -6,14 +6,14 @@
 /*   By: hhismans <hhismans@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/12/08 16:23:22 by hhismans          #+#    #+#             */
-/*   Updated: 2014/12/11 11:32:52 by laime            ###   ########.fr       */
+/*   Updated: 2015/01/01 20:13:59 by laime            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef SNAKE_H
 # define SNAKE_H
 
-# include "libft/libft.h"
+# include "../libft/libft.h"
 
 # define MAP_X 8
 # define MAP_Y 16

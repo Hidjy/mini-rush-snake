@@ -6,7 +6,7 @@
 /*   By: hhismans <hhismans@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/12/08 14:00:56 by hhismans          #+#    #+#             */
-/*   Updated: 2014/12/11 10:19:47 by laime            ###   ########.fr       */
+/*   Updated: 2015/01/01 20:14:25 by laime            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@
 #include <sys/ioctl.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include "libft/libft.h"
+#include "../libft/libft.h"
 #include <termios.h>
 #include <fcntl.h>
 #include "snake.h"

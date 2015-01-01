@@ -6,13 +6,13 @@
 /*   By: laime <laime@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/12/11 11:06:28 by laime             #+#    #+#             */
-/*   Updated: 2014/12/13 18:00:38 by laime            ###   ########.fr       */
+/*   Updated: 2015/01/01 21:26:47 by laime            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdlib.h>
 #include "snake.h"
-#include "libft/libft.h"
+#include "../libft/libft.h"
 
 int		canturn(int key, int lkey)
 {

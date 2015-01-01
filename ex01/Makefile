@@ -1,8 +1,9 @@
 all:
 	@gcc -c *.c
-	@gcc -o ex01 *.o -L libft -lft
+	@make -C ../libft/ re
+	@gcc -o ex01 *.o -L ../libft -lft
 
-ex00: all
+ex01: all
 
 re: fclean all
 

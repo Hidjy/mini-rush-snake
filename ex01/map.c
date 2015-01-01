@@ -6,13 +6,13 @@
 /*   By: laime <laime@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/12/11 10:13:55 by laime             #+#    #+#             */
-/*   Updated: 2014/12/11 12:00:51 by laime            ###   ########.fr       */
+/*   Updated: 2015/01/01 21:21:56 by laime            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdlib.h>
 #include "snake.h"
-#include "libft/libft.h"
+#include "../libft/libft.h"
 
 int		**map_init(int x, int y)
 {

@@ -1,6 +1,7 @@
 all:
 	@gcc -c *.c
-	@gcc -o ex00 *.o -L libft -lft
+	@make -C ../libft re
+	@gcc -o ex00 *.o -L ../libft -lft
 
 ex00: all
 

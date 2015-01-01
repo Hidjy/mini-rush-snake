@@ -6,14 +6,14 @@
 /*   By: laime <laime@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/12/11 10:13:55 by laime             #+#    #+#             */
-/*   Updated: 2014/12/11 11:35:42 by laime            ###   ########.fr       */
+/*   Updated: 2015/01/01 20:13:12 by laime            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
 #include <stdlib.h>
 #include "snake.h"
-#include "libft/libft.h"
+#include "../libft/libft.h"
 
 int		main(int ac, char **av)
 {
